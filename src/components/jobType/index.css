@@ -1,0 +1,14 @@
+.button {
+  align-self: flex-start;
+  background-color: transparent;
+  font-family: 'Roboto';
+  font-size: 14px;
+  border: 1px solid black;
+  outline: none;
+  cursor: pointer;
+  margin-bottom: 10px;
+}
+
+.active-tab-btn {
+  background-color: aquamarine;
+}

@@ -1,0 +1,47 @@
+.table-row {
+  display: flex;
+  list-style-type: none;
+  border-left: 1px solid #cbd5e1;
+  border-bottom: 1px solid #cbd5e1;
+  border-right: 1px solid #cbd5e1;
+}
+
+.table-cell {
+  color: #1e293b;
+  font-family: 'Roboto';
+  font-size: 16px;
+  margin-left: 32px;
+  flex-wrap: wrap;
+  align-items: center;
+  width: 15%;
+}
+.action-buttons {
+  display: flex;
+  align-items: center;
+}
+.custom-button {
+  margin-right: 5px;
+  align-self: flex-start;
+  background-color: transparent;
+  font-family: 'Roboto';
+  font-size: 14px;
+  outline: none;
+  cursor: pointer;
+  margin-bottom: 10px;
+  border: none;
+}
+
+.custom-button:hover {
+  text-decoration: underline;
+}
+.new-input {
+  width: 80%;
+}
+.popup-container {
+  background-color: #cbd5e1;
+}
+
+.avatar {
+  height: 250px;
+  width: 250px;
+}
