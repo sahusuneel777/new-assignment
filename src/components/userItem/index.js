@@ -33,7 +33,6 @@ class userItem extends Component {
       isedited,
       jobType,
       dob,
-      prefLocation,
     } = userDetails
 
     console.log(profilePic)

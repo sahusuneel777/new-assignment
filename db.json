@@ -1,0 +1,64 @@
+{
+  "initialUsersList": [
+    {
+      "slNo": 1,
+      "fullName": "Shalna",
+      "profilePic": "https://res.cloudinary.com/dnv6kesmt/image/upload/v1645116120/mini-project/female_avatar_g3enft.png",
+      "mobile": "+420 255 991 3525 ",
+      "emailId": "sbradder@mlb.com",
+      "jobType": "Consultant",
+      "dob": "25-03-1984",
+      "prefLocation": "chennai"
+    },
+    {
+      "slNo": 2,
+      "fullName": "Abie",
+      "profilePic": "https://res.cloudinary.com/dnv6kesmt/image/upload/v1645116120/mini-project/male-avatar_hrxdmz.png",
+      "mobile": "+47 228 583 9463",
+      "emailId": "sbrisbane@mlb.com",
+      "jobType": "Part Time",
+      "dob": "12-07-1990",
+      "prefLocation": "Delhi"
+    },
+    {
+      "slNo": 3,
+      "fullName": "Johanna",
+      "profilePic": "https://res.cloudinary.com/dnv6kesmt/image/upload/v1645116120/mini-project/female_avatar_g3enft.png",
+      "mobile": "+7 525 409 6303",
+      "emailId": "jjoannidi@delicious.com",
+      "jobType": "Consultant",
+      "dob": "12-10-1986",
+      "prefLocation": "Pune"
+    },
+    {
+      "slNo": 4,
+      "fullName": "Fax",
+      "profilePic": "https://res.cloudinary.com/dnv6kesmt/image/upload/v1645116120/mini-project/male-avatar_hrxdmz.png",
+      "mobile": "+1 692 651 3855",
+      "emailId": "fcromwell3@del.com",
+      "jobType": "Part Time",
+      "dob": "25-03-1984",
+      "prefLocation": "chennai"
+    },
+    {
+      "slNo": 5,
+      "fullName": "Jasmine",
+      "profilePic": "https://res.cloudinary.com/dnv6kesmt/image/upload/v1645116120/mini-project/female_avatar_g3enft.png",
+      "mobile": "+385 707 676 7442 ",
+      "emailId": "jaccsell4@msn.com",
+      "jobType": "Full time",
+      "dob": "15-09-1998",
+      "prefLocation": "Delhi"
+    },
+    {
+      "slNo": 6,
+      "fullName": "Bandon",
+      "profilePic": "https://res.cloudinary.com/dnv6kesmt/image/upload/v1645116120/mini-project/male-avatar_hrxdmz.png",
+      "mobile": "+505 725 624 0025",
+      "emailId": "bhawtin@infoseek.com",
+      "jobType": "Full time",
+      "dob": "10-06-1980",
+      "prefLocation": "chennai"
+    }
+  ]
+}
